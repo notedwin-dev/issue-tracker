@@ -13,6 +13,10 @@
     --foreground-rgb: 255, 255, 255;
     background: rgb(27, 25, 25);
   }
+
+  .nav-link {
+    @apply text-zinc-500 font-bold hover:text-zinc-200;
+  }
 }
 
 body {
@@ -20,7 +24,7 @@ body {
 }
 
 @layer utilities {
-  .text-balance {
-    text-wrap: balance;
+  .nav-link {
+    @apply text-zinc-500 hover:text-zinc-800 transition-colors;
   }
 }
