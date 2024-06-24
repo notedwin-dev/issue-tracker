@@ -20,7 +20,7 @@ const Navbar = () => {
       </Link>
       <ul className="flex space-x-6">
         {links.map((link) => (
-          <li>
+          <li key={link.href}>
             <Link
               key={link.href}
               className={classnames({
