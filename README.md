@@ -18,9 +18,9 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to see the
 
 ## To Do List
 
-- [] Make In Progress Status Update
-- [] Able to switch layout to Agile Scrum Board.
-- [] Beautify New Issues page and maybe add some more info.
+- [ ] Make In Progress Status Update
+- [ ] Able to switch layout to Agile Scrum Board.
+- [ ] Beautify New Issues page and maybe add some more info.
 
 ## Learn More
 
